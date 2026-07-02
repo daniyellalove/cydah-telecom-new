@@ -90,7 +90,7 @@ export default function Contact() {
                 <div className="form-row" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 18 }}>
                   <div>
                     <label style={labelStyle}>Name</label>
-                    <input required type="text" placeholder="Jane Doe" style={inputStyle} />
+                    <input required type="text" placeholder="Enter name" style={inputStyle} />
                   </div>
                   <div>
                     <label style={labelStyle}>Email</label>
