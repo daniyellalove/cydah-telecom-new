@@ -7,7 +7,7 @@ export default function Logo({/*{ dark }*/}) {
       <img
         src={cydahLogo}
         alt="Cydah Telecommunications LLC"
-        style={{ height: 48, width: 'auto' }}
+        style={{ height: 148, width: 'auto' }}
       />
       {/*<span
         style={{
