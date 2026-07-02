@@ -63,7 +63,7 @@ export default function Contact() {
 
             <div style={{ marginTop: 36, border: '1px solid #ececec', borderRadius: 16, padding: 24, background: '#f6f4f4' }}>
               <p style={{ fontSize: 13.5, lineHeight: 1.6, color: '#666b72' }}>
-                We typically respond within one business day. For urgent project timelines, please mention your
+                We typically respond within three business days. For urgent project timelines, please mention your
                 target schedule in the message below.
               </p>
             </div>
